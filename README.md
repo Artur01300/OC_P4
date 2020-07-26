@@ -1,19 +1,19 @@
-#OpenClassrooms-Développeur Web
+# OpenClassrooms-Développeur Web
 
 Début de formation le 23/05/2020 [développeur web](https://openclassrooms.com/fr/paths/185-developpeur-web) OpenClassrooms
 
 ---
 
-Projet 4 : ####Optimisez un site web existant
+Projet 4 : #### Optimisez un site web existant
 
-###Livrables
+### Livrables
 
   * l’analyse du SEO utilisant le modèle fourni ;
   * une liste de 10 recommandations SEO comprenant des références ;
   * le code source complet du site amélioré ;
   * un rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité).
 
-###Compétences évaluées :
+### Compétences évaluées :
 <!--
 * Écrire un code HTML et CSS maintenable
 * Assurer l'accessibilité d'un site web
