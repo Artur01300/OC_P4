@@ -14,6 +14,8 @@ Début de formation le 23/05/2020 [développeur web](https://openclassrooms.com/
   * un rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité).
 
 ### Compétences évaluées :
+
+en cour
 <!--
 * Écrire un code HTML et CSS maintenable
 * Assurer l'accessibilité d'un site web
