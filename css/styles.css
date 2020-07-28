@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("../img/texture-paper.png");
     background-size: 280px 280px;
 }
 
@@ -328,6 +328,29 @@ a:hover {
     z-index: 1;
 }
 
+.external_links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.external_links h3 {
+    font-size: 1.1em;
+    color: white!important;
+}
+
+.links ul,li{
+    list-style-type: none;
+    padding-right: 30px;
+}
+
+.contact_descript{
+    text-align: center;
+    font-size: medium;
+    padding-top: 30px;
+}
+
 .nav > li {
     float: left;
     margin-top: 4px;
@@ -369,6 +392,7 @@ a:hover {
 }
 
 @media (min-width: 768px) {
+
     .site-navigation {
         position: absolute;
         top: 50%;
@@ -752,6 +776,9 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 100%;
+    height: auto;
+    margin: auto;
 }
 
 .portfolio-row {
@@ -821,19 +848,19 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("/img/dots-bg.png");
+    background-image: url("../img/dots-bg.png");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("/img/lines-h2-bg.png");
+    background-image: url("../img/lines-h2-bg.png");
 }
 
 .bg-banniere {
-    background-image: url("/img/la-chouette-agence-banniere.jpg");
+    background-image: url("../img/la-chouette-agence-banniere.jpg");
 }
 
 .bg-presentation {
-    background-image: url("/img/image-de-presentation.jpg");
+    background-image: url("../img/image-de-presentation.jpg");
 }
 
 
@@ -852,7 +879,7 @@ h4 {
 }
 
 @media (max-width: 992px) and (min-width: 768px) {
-    .navbar .nav {
+        .navbar .nav {
         max-width: 80%
     }
     .nav-center.navbar .nav {
@@ -902,6 +929,12 @@ h4 {
 }
 
 @media (max-width: 767px) {
+    .portfolio-thumb {
+        margin-bottom: 24px;
+        width: 50%;
+        height: auto;
+        margin: auto;
+    }
     .page-container {
         overflow-x: hidden;
         position: relative;
