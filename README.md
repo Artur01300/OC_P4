@@ -15,7 +15,7 @@ Début de formation le 23/05/2020 [développeur web](https://openclassrooms.com/
 
 ### Compétences évaluées :
 
-en cour
+En cour
 <!--
 * Écrire un code HTML et CSS maintenable
 * Assurer l'accessibilité d'un site web
