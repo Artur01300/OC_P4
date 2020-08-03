@@ -24,4 +24,4 @@ En cour
 * Optimiser le référencement d'un site web
 -->
 * Lien Projet4 :
-  https://https://www.artur-karapetyan.fr/p4
+https://www.artur-karapetyan.fr/p4
