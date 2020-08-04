@@ -7,16 +7,19 @@
   <loc>https://artur01300.github.io/OC_P4/New/</loc>
   <lastmod>2020-08-04</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://artur01300.github.io/OC_P4/New/index.html</loc>
   <lastmod>2020-08-04</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://artur01300.github.io/OC_P4/New/contact.html</loc>
   <lastmod>2020-08-04</lastmod>
   <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 
 
