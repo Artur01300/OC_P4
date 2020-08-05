@@ -272,6 +272,10 @@ a:hover {
     margin-top: 80px;
 }
 
+.voffset-pdg{
+    font-size: 1em;
+}
+
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
@@ -739,6 +743,10 @@ p {
     display: inline;
 }
 
+.bgc-atomic-tangerine--bottom{
+    padding-bottom: 40px;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
@@ -819,6 +827,13 @@ h4 {
 
 .tc-white {
     color: white!important;
+    font-weight: bold;
+    font-size: large;
+}
+
+.form--add{
+    display: flex;
+    width: 20%;
 }
 
 .btn-atomic-tangerine {
@@ -1076,6 +1091,7 @@ h4 {
         width: 180px;
         height: 320px;
     }
+    
 }
 
 @media (max-width: 400px) {
@@ -1088,5 +1104,9 @@ h4 {
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
+    }
+
+    .form--add{
+        justify-content: center;
     }
 }
