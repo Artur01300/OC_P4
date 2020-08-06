@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://artur01300.github.io/OC_P4/New/sitemap.xml
