@@ -922,6 +922,11 @@ h4 {
     .container {
         width: 100%;
     }
+  
+    .form--add{
+        justify-content: center;
+    }
+
     .b-parallax {
         background-attachment: scroll;
     }
