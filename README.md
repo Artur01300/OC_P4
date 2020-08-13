@@ -4,7 +4,7 @@ Début de formation le 23/05/2020 [développeur web](https://openclassrooms.com/
 
 ---
 
-#### Projet 4 :Optimisez un site web existant
+#### Projet 4 : Optimisez un site web existant
 
 ### Livrables
 
