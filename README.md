@@ -1,7 +1,5 @@
 # OpenClassrooms-Développeur Web
 
-Début de formation le 23/05/2020 [développeur web](https://openclassrooms.com/fr/paths/185-developpeur-web) OpenClassrooms
-
 ---
 
 #### Projet 4 : Optimisez un site web existant
